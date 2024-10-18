@@ -1,7 +1,7 @@
 body {
   background-image: url('/family-guy.jpg');
   background-size: cover;
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
 .quote-container {
